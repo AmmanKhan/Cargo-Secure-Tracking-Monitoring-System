@@ -1,7 +1,7 @@
 # Cargo-Secure-Tracking-Monitoring-System
 Logistics based software to monitor and track within secure way.
 
-# Freight Security Threat Model
+# Cargo Tracking System Threat Model
 A practical threat model for small carriers, freight brokers and logistics
 companies that have no dedicated security team.
 
